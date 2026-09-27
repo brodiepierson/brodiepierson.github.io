@@ -6,3 +6,10 @@
 [chess](https://www.chess.com)
 
 Hiking
+
+## Classes
+Intro to Version Control
+Navigating Computer Systems
+Technical Communication
+Full Stack Web Development
+Calculus 1
