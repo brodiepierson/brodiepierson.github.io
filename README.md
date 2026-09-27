@@ -1,5 +1,5 @@
-[My GitHub account] (https://github.com/brodiepierson)
+[My GitHub account](https://github.com/brodiepierson)
 
-##Interests
-[chess] (https://www.chess.com)
+## Interests
+[chess](https://www.chess.com)
 Hiking
