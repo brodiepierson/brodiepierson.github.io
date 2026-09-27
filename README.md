@@ -1,4 +1,4 @@
-<img src="./IMG_8018.jpg" alt="My photo" width="300">
+<img src="./IMG_8018.jpeg" alt="My photo" width="300">
 
 [My GitHub account](https://github.com/brodiepierson)
 
