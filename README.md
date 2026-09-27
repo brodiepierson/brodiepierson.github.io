@@ -9,12 +9,12 @@
 
 ## Classes
 
-Intro to Version Control
+1. Intro to Version Control
 
-Navigating Computer Systems
+2. Navigating Computer Systems
 
-Technical Communication
+3. Technical Communication
 
-Full Stack Web Development
+4. Full Stack Web Development
 
-Calculus 1
+5. Calculus 1
